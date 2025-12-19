@@ -1,0 +1,14 @@
+C:\Users\konst\Desktop\Homework\Homework\bin\Debug\net8.0\Homework.exe
+C:\Users\konst\Desktop\Homework\Homework\bin\Debug\net8.0\Homework.deps.json
+C:\Users\konst\Desktop\Homework\Homework\bin\Debug\net8.0\Homework.runtimeconfig.json
+C:\Users\konst\Desktop\Homework\Homework\bin\Debug\net8.0\Homework.dll
+C:\Users\konst\Desktop\Homework\Homework\bin\Debug\net8.0\Homework.pdb
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfoInputs.cache
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\Homework.AssemblyInfo.cs
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\Homework.csproj.CoreCompileInputs.cache
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\Homework.dll
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\refint\Homework.dll
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\Homework.pdb
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\Homework.genruntimeconfig.cache
+C:\Users\konst\Desktop\Homework\Homework\obj\Debug\net8.0\ref\Homework.dll
