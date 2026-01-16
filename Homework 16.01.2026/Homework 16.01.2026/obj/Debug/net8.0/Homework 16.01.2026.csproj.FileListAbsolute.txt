@@ -1,0 +1,17 @@
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\bin\Debug\net8.0\Homework 16.01.2026.exe
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\bin\Debug\net8.0\Homework 16.01.2026.deps.json
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\bin\Debug\net8.0\Homework 16.01.2026.runtimeconfig.json
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\bin\Debug\net8.0\Homework 16.01.2026.dll
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\bin\Debug\net8.0\Homework 16.01.2026.pdb
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.csproj.AssemblyReference.cache
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.AssemblyInfoInputs.cache
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.AssemblyInfo.cs
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.csproj.CoreCompileInputs.cache
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework.752B1D5F.Up2Date
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.dll
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\refint\Homework 16.01.2026.dll
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.pdb
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\Homework 16.01.2026.genruntimeconfig.cache
+C:\Users\konst\Desktop\Homework 16.01.2026\Homework 16.01.2026\obj\Debug\net8.0\ref\Homework 16.01.2026.dll
