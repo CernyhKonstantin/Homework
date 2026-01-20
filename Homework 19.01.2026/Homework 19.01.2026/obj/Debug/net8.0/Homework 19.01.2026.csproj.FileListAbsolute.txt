@@ -1,0 +1,33 @@
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.AssemblyInfoInputs.cache
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.AssemblyInfo.cs
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.csproj.CoreCompileInputs.cache
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.csproj.AssemblyReference.cache
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Homework 19.01.2026.exe
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Homework 19.01.2026.deps.json
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Homework 19.01.2026.runtimeconfig.json
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Homework 19.01.2026.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Homework 19.01.2026.pdb
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework.21874CFC.Up2Date
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\refint\Homework 19.01.2026.dll
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.pdb
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\Homework 19.01.2026.genruntimeconfig.cache
+C:\Users\konst\Desktop\Homework 19.01.2026\Homework 19.01.2026\obj\Debug\net8.0\ref\Homework 19.01.2026.dll
